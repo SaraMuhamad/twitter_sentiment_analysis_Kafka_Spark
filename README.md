@@ -3,7 +3,7 @@ The project aims at building a data platform for real time moderation and analyt
 
 I used tweepy Python library for accessing the Twitter API.
 
-I use TextBlob Python library for sentiment analysis.
+I useي TextBlob Python library for sentiment analysis.
 
 I worked with Spark Structured Streaming
 
